@@ -1,0 +1,139 @@
+.homebtn {
+/* Rectangle 14 */
+
+position: absolute;
+/* width: 111px;
+height: 49px; */
+left: 633px;
+top: 34px;
+align-items: center;
+text-align: center;
+
+background: linear-gradient(90deg, #27C4A7 4.33%, #4BBF49 100%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+}
+
+.featurebtn {
+    /* Features */
+
+position: absolute;
+/* width: 79px;
+height: 24px; */
+left: 781px;
+top: 34px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20.2011px;
+line-height: 24px;
+/* identical to box height */
+
+color: #646977;
+
+
+}
+
+.pricebtn {
+    /* Pricing */
+
+position: absolute;
+/* width: 64px;
+height: 24px; */
+left: 924px;
+top: 34px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20.2011px;
+line-height: 24px;
+/* identical to box height */
+
+color: #646977;
+
+
+}
+
+.contactbtn{
+    /* Contact */
+
+position: absolute;
+/* width: 71px;
+height: 24px; */
+left: 1052px;
+top: 34px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20.2011px;
+line-height: 24px;
+/* identical to box height */
+
+color: #646977;
+
+
+}
+
+.loginbtn {
+    /* Login */
+
+position: absolute;
+/* width: 51px;
+height: 24px; */
+left: 1187px;
+top: 34px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20.2011px;
+line-height: 24px;
+/* identical to box height */
+
+color: #646977;
+
+
+}
+
+
+.signupbtn {
+    /* Rectangle 12 */
+
+position: absolute;
+/* width: 198px;
+height: 49px; */
+left: 1302px;
+top: 34px;
+
+background: linear-gradient(90deg, #795FFD 0%, #3518C9 100%);
+border-radius: 15px;
+
+
+}
+
+
+.signtxt {
+    /* Free Signup */
+/* 
+position: absolute; */
+/* width: 108px;
+/* height: 24px; */
+/* left: 1367px;
+top: 34px;  */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20.2011px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+
